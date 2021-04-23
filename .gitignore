@@ -1,0 +1,28 @@
+*.swp
+*.swo
+*.html~
+*.js~
+*.coffee~
+*.css~
+*.less~
+*.orig
+.svn/
+dist/
+__jestTmp__/
+.typeDefine
+node_modules/
+.idea
+npm-debug.log
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+lerna-debug.log
+lib/
+build/
+prebuild-lib/
+.vscode/
+# coverage dir
+coverage/
+# unit test results
+test-results.json
+
